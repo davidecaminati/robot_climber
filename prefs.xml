@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+  <entry key="bobbin_left_diameter" value="1.54"/>
+  <entry key="bobbin_right_diameter" value="1.54"/>
+  <entry key="current_tool" value="0"/>
+  <entry key="feed_rate" value="1000.0"/>
+  <entry key="limit_bottom" value="-65.0"/>
+  <entry key="limit_left" value="-56.875"/>
+  <entry key="limit_right" value="56.875"/>
+  <entry key="limit_top" value="65.0"/>
+  <entry key="m1invert" value="true"/>
+  <entry key="m2invert" value="true"/>
+  <entry key="paper_bottom" value="-35.0"/>
+  <entry key="paper_left" value="-50.0"/>
+  <entry key="paper_margin" value="0.9"/>
+  <entry key="paper_right" value="50.0"/>
+  <entry key="paper_top" value="35.0"/>
+  <entry key="reverseForGlass" value="false"/>
+  <entry key="startingPosIndex" value="4"/>
+</map>
